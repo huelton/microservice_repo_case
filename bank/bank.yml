@@ -1,5 +1,4 @@
 spring:
-    data:
-      mongodb:
-        uri: mongodb+srv://mongo:mongo2020@cluster0-5hqnc.mongodb.net/cluster0?retryWrites=true&w=majority
+    data.mongodb:
+      uri: mongodb+srv://mongo:mongo2020@cluster0-5hqnc.mongodb.net/cluster0?retryWrites=true&w=majority
    
