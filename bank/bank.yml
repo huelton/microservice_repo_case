@@ -3,6 +3,6 @@
 spring:
   data:
     mongodb:
-       uri: mongodb+srv://mongo:mongo2020@mongoflex-fyxlp.mongodb.net/mongoflex?retryWrites=true 
+       uri: mongodb+srv://mongo:mongo2020@mongoflex-fyxlp.mongodb.net/mongoflex?retryWrites=true?authMode=scram-sha1
 
    
